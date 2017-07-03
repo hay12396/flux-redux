@@ -1,5 +1,11 @@
 # Flux-Redux Exemplar
 
+
+
+### check the forks for the course stages.
+
+
+
 ## Getting started
 To run application, run
 ```bash
