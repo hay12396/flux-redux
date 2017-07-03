@@ -2,7 +2,7 @@
 
 
 
-### check the forks for the course stages.
+### check the branches for the course stages.
 
 
 
